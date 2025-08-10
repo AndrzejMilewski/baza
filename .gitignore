@@ -1,0 +1,28 @@
+# Baza danych (nie trzymamy na GitHubie!)
+db.sqlite3
+
+# Wirtualne środowisko Pythona
+venv/
+.venv/
+
+# Pliki cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+
+# Pliki cache Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+local_settings.py
+
+# Pliki tymczasowe
+*.sqlite3
+media/
+staticfiles/
+
+# Konfiguracja środowiska
+.env
